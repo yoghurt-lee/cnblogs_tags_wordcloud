@@ -1,6 +1,7 @@
 ## 我的博客园的标签分析
 
 - 这是一个python 词云的小demo,熟悉一下怎么使用文本生成词云.
+
 ### 这里是运行wordcloud必装
 - 安装wordcloud `pip install wordcloud`
 - 安装 numpy `pip install numpy`
