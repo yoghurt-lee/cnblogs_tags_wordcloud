@@ -1,0 +1,501 @@
+
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Tag标签列表 - 樱花庄的龙之介大人 - 博客园</title>
+<link type="text/css" rel="stylesheet" href="/bundles/blog-common.css?v=03KQeESEmpLfzDqUo0NiWUg5Zd5aRam3JHBZTK05Wug1"/>
+<link id="MainCss" type="text/css" rel="stylesheet" href="/skins/AnotherEon001/bundle-AnotherEon001.css?v=dNz80TfH9-81kuLR86t4JWgT2tb_J0B779DQM4kw0WU1"/>
+<link id="mobile-style" media="only screen and (max-width: 768px)" type="text/css" rel="stylesheet" href="/skins/AnotherEon001/bundle-AnotherEon001-mobile.css?v=oKwNL0n-5lVBvepR3jYIL9T0Wob4lUUi6e2jm34hfK01"/>
+<link title="RSS" type="application/rss+xml" rel="alternate" href="http://www.cnblogs.com/liyinggang/rss"/>
+<link title="RSD" type="application/rsd+xml" rel="EditURI" href="http://www.cnblogs.com/liyinggang/rsd.xml"/>
+<link type="application/wlwmanifest+xml" rel="wlwmanifest" href="http://www.cnblogs.com/liyinggang/wlwmanifest.xml"/>
+<script src="//common.cnblogs.com/script/jquery.js" type="text/javascript"></script>  
+<script type="text/javascript">var currentBlogApp = 'liyinggang', cb_enable_mathjax=false;var isLogined=false;</script>
+<script src="/bundles/blog-common.js?v=Wi_UnAyY55yQKWjwwwuDISxc6t0j3z6Pn8OHCG0udOA1" type="text/javascript"></script>
+</head>
+<body>
+<a name="top"></a>
+
+<div id="wrapper">
+<div id="header">
+
+<div id="top">
+<h1><a id="Header1_HeaderTitle" class="headermaintitle" href="http://www.cnblogs.com/liyinggang/">AC菜鸟机</a></h1>
+<div id="subtitle"></div>
+</div>
+<div id="sub"><div id="blog_stats">
+<div class="BlogStats">随笔 - 507, 文章 - 0, 评论 - 8, 引用 - 0</div>
+</div></div>
+
+
+
+</div>
+<div id="main_container">
+<div id="main_content">
+<div id="content">
+	
+
+<div id="taglist_main">
+<div id="taglist_title_wrap"><h3 id="taglist_title">我的Tag列表</h3></div>
+<div id="taglist">
+<table id="MyTag1_dtTagList" cellspacing="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/hdu/">hdu</a><span class="small">(334)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E4%BA%8C%E5%88%86/">二分</a><span class="small">(6)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E4%BA%8C%E5%88%86%E5%9B%BE%E5%A4%9A%E9%87%8D%E5%8C%B9%E9%85%8D/">二分图多重匹配</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%A8%A1%E6%8B%9F%E9%80%80%E7%81%AB/">模拟退火</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%9B%BE%E8%AE%BA/">图论</a><span class="small">(98)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%A5%BD%E9%A2%98/">好题</a><span class="small">(6)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%A4%9A%E9%87%8D%E8%83%8C%E5%8C%85/">多重背包</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%A8%A1%E5%9E%8B/">模型</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/poj/">poj</a><span class="small">(86)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E8%AE%B0%E5%BF%86%E5%8C%96%E6%90%9C%E7%B4%A2/">记忆化搜索</a><span class="small">(6)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%A6%82%E7%8E%87/">概率</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E8%8E%AB%E9%98%9F%E7%AE%97%E6%B3%95/">莫队算法</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/">动态规划</a><span class="small">(67)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%A0%91%E5%BD%A2DP/">树形DP</a><span class="small">(6)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%96%90%E6%B3%A2%E6%8B%89%E5%A5%91%E6%95%B0%E5%88%97/">斐波拉契数列</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E9%82%BB%E6%8E%A5%E8%A1%A8/">邻接表</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%80%9D%E8%B7%AF%E9%A2%98/">思路题</a><span class="small">(61)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%8C%BA%E9%97%B4DP/">区间DP</a><span class="small">(6)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%BB%9A%E5%8A%A8%E6%95%B0%E7%BB%84/">滚动数组</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E7%B1%B3%E5%8B%92%E6%8B%89%E5%AE%BE/">米勒拉宾</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%95%B0%E8%AE%BA/">数论</a><span class="small">(48)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E7%9F%A9%E9%98%B5/">矩阵</a><span class="small">(6)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E8%A7%A3%E6%9E%90%E5%87%A0%E4%BD%95/">解析几何</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%A8%A1%E6%9D%BF/">模板</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95/">计算几何</a><span class="small">(45)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E9%80%86%E5%85%83/">逆元</a><span class="small">(5)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%AC%A7%E6%8B%89/">欧拉</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%A8%A1%E6%9D%BF%E7%BB%83%E4%B9%A0/">模板练习</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%95%B0%E5%AD%A6/">数学</a><span class="small">(40)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/">数据结构</a><span class="small">(5)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%B0%BC%E5%A7%86%E5%8D%9A%E5%BC%88/">尼姆博弈</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%BC%80%E5%8F%91/">开发</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%90%9C%E7%B4%A2/">搜索</a><span class="small">(38)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%8B%93%E6%89%91%E6%8E%92%E5%BA%8F/">拓扑排序</a><span class="small">(5)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%8E%92%E5%88%97%E7%BB%84%E5%90%88/">排列组合</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%BA%B7%E6%89%98%E5%B1%95%E5%BC%80/">康托展开</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/DFS/">DFS</a><span class="small">(29)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/RMQ/">RMQ</a><span class="small">(5)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%AC%A7%E6%8B%89%E5%9B%9E%E8%B7%AF/">欧拉回路</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%B7%B7%E5%90%88%E8%83%8C%E5%8C%85/">混合背包</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%B9%B6%E6%9F%A5%E9%9B%86/">并查集</a><span class="small">(28)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%B7%B4%E4%BB%80%E5%8D%9A%E5%BC%88/">巴什博弈</a><span class="small">(5)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E4%B8%89%E5%88%86/">三分</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E8%AE%A1%E6%95%B0%E9%97%AE%E9%A2%98/">计数问题</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E7%BD%91%E7%BB%9C%E6%B5%81/">网络流</a><span class="small">(27)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/LIS/">LIS</a><span class="small">(5)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%A0%91%E4%B8%8A%E6%9C%80%E9%95%BF%E8%B7%AF/">树上最长路</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%8A%80%E5%B7%A7/">技巧</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%9C%80%E7%9F%AD%E8%B7%AF/">最短路</a><span class="small">(27)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%9C%80%E5%B0%8F%E7%82%B9%E8%A6%86%E7%9B%96/">最小点覆盖</a><span class="small">(5)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%9C%80%E9%95%BF%E8%B7%AF/">最长路</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E7%AE%80%E5%8D%95%E5%A4%9A%E8%BE%B9%E5%BD%A2%E9%9D%A2%E7%A7%AF%E5%B9%B6/">简单多边形面积并</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/BFS/">BFS</a><span class="small">(24)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E7%8A%B6%E6%80%81%E5%8E%8B%E7%BC%A9/">状态压缩</a><span class="small">(4)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%9C%80%E5%A4%A7%E7%82%B9%E7%8B%AC%E7%AB%8B/">最大点独立</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%93%88%E5%A4%AB%E6%9B%BC%E6%A0%91/">哈夫曼树</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/JAVA/">JAVA</a><span class="small">(24)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/LCS/">LCS</a><span class="small">(4)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E7%BD%AE%E6%8D%A2/">置换</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%88%86%E5%9D%97%E6%80%9D%E6%83%B3/">分块思想</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E4%BA%8C%E5%88%86%E5%9B%BE/">二分图</a><span class="small">(22)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/BigInteger/">BigInteger</a><span class="small">(4)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E7%BD%AE%E6%8D%A2%E7%BE%A4/">置换群</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%88%86%E7%B1%BB%E8%AE%A8%E8%AE%BA/">分类讨论</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/csu/">csu</a><span class="small">(21)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/SG%E5%87%BD%E6%95%B0/">SG函数</a><span class="small">(4)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E4%BD%8D%E8%BF%90%E7%AE%97/">位运算</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%A6%82%E7%8E%87DP/">概率DP</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84/">树状数组</a><span class="small">(18)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%88%86%E7%BB%84%E8%83%8C%E5%8C%85/">分组背包</a><span class="small">(4)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%9B%BE/">图</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%85%B3%E9%94%AE%E5%89%B2%E8%BE%B9/">关键割边</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%A8%A1%E6%8B%9F/">模拟</a><span class="small">(17)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%90%8C%E4%BD%99/">同余</a><span class="small">(4)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%95%B0%E4%BD%8DDP/">数位DP</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F/">归并排序</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E7%BA%BF%E6%AE%B5%E6%A0%91/">线段树</a><span class="small">(16)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%90%91%E9%87%8F%E5%81%8F%E7%A7%BB/">向量偏移</a><span class="small">(4)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%8F%8C%E5%90%91%E5%B9%BF%E6%90%9C/">双向广搜</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E4%BA%8C%E5%8F%89%E6%8E%92%E5%BA%8F%E6%A0%91/">二叉排序树</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/">最小生成树</a><span class="small">(14)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%97%8B%E8%BD%AC%E5%8D%A1%E5%A3%B3/">旋转卡壳</a><span class="small">(3)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%90%8C%E6%AD%A5%E9%94%81/">同步锁</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E4%BA%8C%E5%8F%89%E6%A0%91/">二叉树</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E7%AE%97%E6%B3%95/">算法</a><span class="small">(12)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6/">组合数学</a><span class="small">(3)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E7%B4%A0%E6%95%B0/">素数</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%AF%B9%E5%81%B6%E5%9B%BE/">对偶图</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%8D%9A%E5%BC%88/">博弈</a><span class="small">(12)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%8C%BA%E9%97%B4%E5%90%88%E5%B9%B6/">区间合并</a><span class="small">(3)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%AE%8C%E7%BE%8E%E5%8C%B9%E9%85%8D/">完美匹配</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%8F%8D%E7%B4%A0%E6%95%B0/">反素数</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98/">背包问题</a><span class="small">(10)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%AE%B9%E6%96%A5%E5%8E%9F%E7%90%86/">容斥原理</a><span class="small">(3)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85/">完全背包</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%8D%95%E7%82%B9%E6%9B%B4%E6%96%B0/">单点更新</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E8%B4%AA%E5%BF%83/">贪心</a><span class="small">(10)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%8C%B9%E9%85%8D/">匹配</a><span class="small">(3)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E7%89%A9%E7%90%86/">物理</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%8D%95%E8%B0%83%E6%A0%88/">单调栈</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%AD%97%E7%AC%A6%E4%B8%B2/">字符串</a><span class="small">(10)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%8D%A1%E7%89%B9%E5%85%B0%E6%95%B0/">卡特兰数</a><span class="small">(3)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E7%BA%BF%E7%A8%8B/">线程</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97/">等比数列</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%87%B8%E5%8C%85/">凸包</a><span class="small">(9)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E7%A6%BB%E7%BA%BF%E5%A4%84%E7%90%86/">离线处理</a><span class="small">(3)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%BE%AA%E7%8E%AF%E8%8A%82/">循环节</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%A4%A7%E6%95%B0%E6%A8%A1%E6%9D%BF/">大数模板</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E9%80%92%E6%8E%A8/">递推</a><span class="small">(9)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%A4%A7%E6%95%B4%E6%95%B0/">大整数</a><span class="small">(3)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E9%AA%8C%E8%AF%81%E7%A0%81%E5%A4%84%E7%90%86/">验证码处理</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/zoj/">zoj</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%B0%BA%E5%8F%96%E6%B3%95/">尺取法</a><span class="small">(8)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/AC%E8%87%AA%E5%8A%A8%E6%9C%BA/">AC自动机</a><span class="small">(3)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%BC%82%E6%88%96/">异或</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%AE%89%E5%8D%93%E5%AD%A6%E4%B9%A0/">安卓学习</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%BF%AB%E9%80%9F%E5%B9%82/">快速幂</a><span class="small">(8)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%AD%97%E5%85%B8%E6%A0%91/">字典树</a><span class="small">(3)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E4%BD%99%E6%95%B0%E5%88%86%E7%B1%BB/">余数分类</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%AF%94%E8%B5%9B%E6%80%BB%E7%BB%93/">比赛总结</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E7%A6%BB%E6%95%A3%E5%8C%96/">离散化</a><span class="small">(8)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/">中国剩余定理</a><span class="small">(3)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%95%B4%E6%95%B0%E5%88%86%E8%A7%A3/">整数分解</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/simpson%E5%85%AC%E5%BC%8F/">simpson公式</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%AC%A7%E6%8B%89%E5%87%BD%E6%95%B0/">欧拉函数</a><span class="small">(8)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%9C%80%E4%BC%98%E5%8C%B9%E9%85%8D/">最优匹配</a><span class="small">(3)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%9C%80%E5%A4%A7%E6%9D%83%E9%97%AD%E5%90%88%E5%9B%BE/">最大权闭合图</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/pair/">pair</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97/">优先队列</a><span class="small">(7)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/bzoj/">bzoj</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%A0%91%E4%B8%8A%E6%9C%80%E8%BF%9C%E7%82%B9%E5%AF%B9/">树上最远点对</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/servlet/">servlet</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/Python/">Python</a><span class="small">(7)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/c%2B%2B/">c++</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E4%B8%89%E7%BB%B4/">三维</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/kruskal/">kruskal</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/LCA/">LCA</a><span class="small">(7)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/map/">map</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%AC%A7%E6%8B%89%E8%B7%AF/">欧拉路</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/javascript/">javascript</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/01%E8%83%8C%E5%8C%85/">01背包</a><span class="small">(7)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/KMP/">KMP</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E7%88%AC%E8%99%AB/">爬虫</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/bestcoder/">bestcoder</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%9C%80%E5%B0%8F%E8%B4%B9%E7%94%A8%E6%9C%80%E5%A4%A7%E6%B5%81/">最小费用最大流</a><span class="small">(7)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%AF%94%E8%B5%9B/">比赛</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%8E%92%E5%BA%8F/">排序</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/BigDecimal/">BigDecimal</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%9C%80%E5%A4%A7%E5%AD%90%E6%AE%B5%E5%92%8C/">最大子段和</a><span class="small">(6)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/STL/">STL</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%A5%87%E5%81%B6%E5%89%AA%E6%9E%9D/">奇偶剪枝</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%9C%80%E5%B0%8F%E6%A0%91%E5%BD%A2%E5%9B%BE/">最小树形图</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/hash/">hash</a><span class="small">(6)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/Targin/">Targin</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%89%8D%E7%BC%80%E5%92%8C/">前缀和</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%9C%86/">最小覆盖圆</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/nyoj/">nyoj</a><span class="small">(6)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/">二分查找</a><span class="small">(2)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E9%80%86%E5%BA%8F%E6%95%B0/">逆序数</a><span class="small">(1)</span>
+</td><td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E6%9C%80%E5%B0%8F%E5%89%B2/">最小割</a><span class="small">(1)</span>
+</td>
+	</tr><tr>
+		<td>
+<a href="http://www.cnblogs.com/liyinggang/tag/%E5%B7%AE%E5%88%86%E7%BA%A6%E6%9D%9F/">差分约束</a><span class="small">(6)</span>
+</td><td></td><td></td><td></td>
+	</tr>
+</table>
+</div>
+</div>
+
+</div>
+</div>
+<div id="leftmenu">
+
+
+<h3>导航</h3>
+<ul>
+<li>
+<a id="blog_nav_sitehome" href="http://www.cnblogs.com/">博客园</a></li>
+<li>
+<a id="blog_nav_myhome" class="two_words" href="http://www.cnblogs.com/liyinggang/">首页</a></li>
+<li>
+<a id="blog_nav_newpost" rel="nofollow" href="https://i.cnblogs.com/EditPosts.aspx?opt=1">新随笔</a></li>
+<li>
+<a id="blog_nav_contact" accesskey="9" class="two_words" rel="nofollow" href="https://msg.cnblogs.com/send/%E6%A8%B1%E8%8A%B1%E5%BA%84%E7%9A%84%E9%BE%99%E4%B9%8B%E4%BB%8B%E5%A4%A7%E4%BA%BA">联系</a></li>
+<li>
+<a id="blog_nav_rss" class="two_words" href="http://www.cnblogs.com/liyinggang/rss">订阅</a>
+<a id="blog_nav_rss_image" href="http://www.cnblogs.com/liyinggang/rss"><img src="//www.cnblogs.com/images/xml.gif" alt="订阅" /></a>
+</li>
+<li>
+<a id="blog_nav_admin" class="two_words" rel="nofollow" href="https://i.cnblogs.com/">管理</a></li>
+</ul>
+
+<div id="blog-calendar" style="display:none"></div><script type="text/javascript">loadBlogDefaultCalendar();</script>
+<meta name="vs_showGrid" content="False">
+
+<h3>公告</h3>
+<div id="blog-news"></div><script type="text/javascript">loadBlogNews();</script>
+
+<div id="blog-sidecolumn"></div><script type="text/javascript">loadBlogSideColumn();</script>
+
+</div>
+</div>
+<div class="clear"></div>
+<div id="footer">
+
+<p id="footer">
+	Powered by: 
+	<br />
+	
+	<a id="Footer1_Hyperlink3" NAME="Hyperlink1" href="http://www.cnblogs.com/" style="font-family:Verdana;font-size:12px;">博客园</a>
+	<br />
+	Copyright &copy; 樱花庄的龙之介大人
+</p>
+</div>
+</div>
+
+</body>
+</html>
